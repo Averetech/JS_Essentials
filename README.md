@@ -1,1 +1,1 @@
-# JS_Essentials
+# JS_Essential
